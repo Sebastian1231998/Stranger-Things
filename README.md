@@ -3,12 +3,12 @@ StrangerThings_APP - Politecnico Internacional
 <h1 align="center"> Proyecto Stranger Things </h1>
 
 
-
-![pic01](https://user-images.githubusercontent.com/66041310/186473753-189ebe3a-a181-424e-a8c0-a9f934b8eed3.jpg)
-
+![18246](https://user-images.githubusercontent.com/38890680/191993831-f0ad0e97-2215-4ce3-ba04-fd5f5c200009.png)
 
 
-![Image](https://user-images.githubusercontent.com/66041310/186474717-31e5f515-5e8b-4446-86bc-7554c61ec3c5.png)
+
+![licencia](https://user-images.githubusercontent.com/38890680/191993994-c3818927-db1c-4b48-88d3-582b22b3e1a2.jpeg)
+
 
 
 
@@ -44,6 +44,22 @@ StrangerThings_APP - Politecnico Internacional
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
+El proyecto de stranger things es una solicitud 
+realizada directamente por la compañía Netflix a la empresa 
+Inova Colombia, donde requiere una plataforma interactiva 
+para que sus usuarios puedan obtener información ampliada 
+de la serie: historia de los personajes, juegos, temporadas, etc. 
+Para este proyecto Inova Colombia acepta el reto y se plantea 
+en primera instancia en estructurar una metodología para el 
+desarrollo de software y poder mapear y registrar cada uno de 
+los requerimientos del software tanto funcionales como no 
+funcionales.
+ La metodología elegida es SCRUM que contiene una estrategia 
+metódica para el diseño y desarrollo de software, este nos brinda 
+herramientas para medir el avance del proyecto y generar 
+entregas constantes a los clientes según la demanda de sus 
+requerimientos, lo que se puede generar una iteración constante 
+al producto
 
 
 *[Estado del proyecto](#Estado-del-proyecto)
@@ -125,6 +141,46 @@ QA Tester                  -
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
+Core team
+*Intermediate Java Developer: Es una persona que tiene 
+habilidades en lenguaje programación Java nivel intermedio 
+capaz de cumplir con un conjunto de requerimientos técnicos 
+que serán asignados a el como responsable 
+Responsable: Andres Salinas
+
+
+*Sr Java Developer: Es un programador e ingeniero 
+experimentado que pueda llevar a cabo un rol crucial en el 
+desarrollo del proyecto, tomando decisiones mas profundas de la 
+arquitectura, infraestructura e implementación del código del 
+proyecto
+
+
+Responsable: Aura Arteaga
+*QA Tester: El QA tester es un profesional encargado de realizar 
+las pruebas al software y monitorear la calidad del producto
+
+
+Responsable: Juan Botero
+Business Analyst: Es la persona que posee conocimientos 
+técnicos sobre la construcción de sistemas informáticos y al 
+mismo tiempo comprende y está al corriente de las necesidades 
+del usuario que requiere de esos sistemas para realizar su trabajo
+
+
+Responsable: Angela Gómez
+*Product Owner: debe asegurarse de que el equipo con el que 
+*Programación de Software y aplicativos Móviles, Politécnico Internacional
+trabaja aporta auténtico valor al proyecto, encargándose de 
+gestionar las tareas del backlog y decidiendo sobre las 
+características del producto
+
+
+Responsable: Jhon Buitrago
+*Scrum Master: básicamente un entrenador y facilitador de 
+equipos Scrum. Ayuda al equipo a mantenerse enfocado en los 
+objetivos del proyecto y elimina los impedimentos que van 
+apareciendo durante el camino
 
 
 Harol Hernan Torres Neuta
@@ -142,5 +198,21 @@ Creative Commons 4.0
 *[Conclusión](#conclusión)
 
 
-
-El desarrollar aplicaciones desde una vista de programacion orientada a objetos habilita nuevos SKILL en pro de fortalecer conceptos basicos y su puesta en marcha. Adicionalmente la integracion de arquitecturas en un modelo de tres capas permite un performance adecuado y una definicion en una linea base a nivel de transaccionalidad. Esto se resume en el fortalecimiento de conocimientos en desarrollo desde las diferentes tecnologias que se pueden tener.
+Para finalizar el presente documento recopila el trabajo 
+investigativo y de planificación para la estructuración del 
+proyecto Stranger things el cual requirió de un trabajo 
+investigativo sobre la serie y las necesidades propuestas, además 
+de la definición técnica de la solicitud para cumplir correctamente 
+con su desarrollo, además se genero una profundización sobre la 
+metodología de trabajo para la construcción del software, donde 
+se decidió optar por la metodología ágil. En consecuencia se 
+empezó con el desarrollo y la planificación de la metodología 
+organizando el ciclo de vida del desarrollo empezando por la fase 
+de análisis donde se extrajeron las especificaciones de los 
+requerimientos funcionales y no funcionales que aportaron para 
+construcción del backlog del proyecto. Debido a lo anterior el 
+backlog impulso la planificación del reléase planing y la 
+búsqueda de los profesionales capacitados para asumir el 
+conjunto de historias de usuario preestablecidas con lo que 
+finalmente resulto en una construcción adecuada organizada y 
+más estructurada.
